@@ -1,0 +1,8 @@
+com\nopcommerce\utility\Excel_Utility.class
+com\nopcommerce\utility\Listener.class
+com\nopcommerce\base\BaseClass.class
+com\nopcommerce\tests\AddNewCustomerTest.class
+com\nopcommerce\pages\AddNewCustomerPage.class
+com\nopcommerce\pages\LoginPage.class
+com\nopcommerce\tests\LoginTests.class
+com\nopcommerce\utility\Util.class

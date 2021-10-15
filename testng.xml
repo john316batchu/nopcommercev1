@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="NopCommerceV1 Automation Suite">
+<listeners>
+<listener class-name="com.nopcommerce.utility.Listener" />
+</listeners>
+<test name="Nop CommerceV1 Regression ">
+<classes>
+<class name="com.nopcommerce.tests.LoginTests"/>
+<class name="com.nopcommerce.tests.AddNewCustomerTest"/>
+</classes>
+</test>
+</suite>

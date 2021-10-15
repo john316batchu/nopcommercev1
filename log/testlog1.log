@@ -1,0 +1,443 @@
+2021-10-13 13:56:47,810 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 13:56:50,717 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 13:56:53,506 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 13:56:58,673 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-13 13:56:59,976 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 13:57:02,960 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 13:57:10,207 [main] INFO NopCommerceV1 - Validating Page Title
+2021-10-13 13:58:08,570 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 13:58:11,556 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 13:58:16,309 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 13:58:26,300 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-13 13:59:06,350 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 13:59:09,917 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 13:59:12,503 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 13:59:17,266 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-13 14:01:53,664 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 14:01:57,876 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 14:02:04,472 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 14:02:13,850 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-13 14:02:15,120 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 14:02:17,726 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 14:02:23,200 [main] INFO NopCommerceV1 - Validating Page Title
+2021-10-13 14:03:42,562 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 14:03:45,788 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 14:03:48,221 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 14:03:55,181 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-13 14:03:56,514 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 14:04:01,546 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 14:04:08,486 [main] INFO NopCommerceV1 - Validating Page Title
+2021-10-13 17:05:49,682 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 17:06:02,931 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 17:06:07,884 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 17:06:20,362 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-13 17:06:20,405 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-13 17:06:20,410 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-13 17:07:18,375 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 17:07:22,720 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 17:07:28,699 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 17:07:38,072 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-13 17:07:39,009 [main] INFO NopCommerceV1 - login Test failed
+2021-10-13 17:09:18,467 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 17:09:22,554 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 17:09:28,644 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 17:09:36,798 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-13 17:09:36,816 [main] INFO NopCommerceV1 - Title does not match
+2021-10-13 17:09:36,817 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-13 17:09:37,325 [main] INFO NopCommerceV1 - login Test failed
+2021-10-13 17:10:43,558 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 17:10:48,358 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 17:10:55,038 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 17:11:04,409 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-13 17:11:04,454 [main] INFO NopCommerceV1 - Title does not match
+2021-10-13 17:13:25,031 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 17:13:28,889 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 17:13:34,912 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 17:13:42,279 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-13 17:13:42,289 [main] INFO NopCommerceV1 - Title does not match
+2021-10-13 17:13:42,289 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-13 17:13:43,405 [main] INFO NopCommerceV1 - login Test failed
+2021-10-13 17:15:18,240 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 17:15:22,152 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 17:15:30,014 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 17:15:38,112 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-13 17:15:38,120 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-13 17:15:38,120 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-13 17:15:42,490 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 17:15:45,617 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 17:15:50,448 [main] INFO NopCommerceV1 - Validating Page Title
+2021-10-13 17:15:50,462 [main] INFO NopCommerceV1 - Page title matches
+2021-10-13 17:38:48,249 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 17:39:04,696 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 17:39:13,504 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 17:39:27,598 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 17:39:35,796 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 17:39:40,837 [main] INFO NopCommerceV1 - Validating Page Title
+2021-10-13 17:39:40,879 [main] INFO NopCommerceV1 - Page title matches
+2021-10-13 17:43:41,245 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 17:43:46,451 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 17:43:52,016 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 17:43:59,715 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-13 17:43:59,909 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-13 17:43:59,910 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-13 17:44:05,739 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 17:44:11,433 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 17:44:16,233 [main] INFO NopCommerceV1 - Validating Page Title
+2021-10-13 17:44:16,248 [main] INFO NopCommerceV1 - Page title matches
+2021-10-13 17:46:53,912 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 17:46:58,114 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 17:47:04,389 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-13 17:47:14,145 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-13 17:47:14,222 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-13 17:47:14,223 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-13 17:47:21,864 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-13 17:47:27,225 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-13 17:47:33,072 [main] INFO NopCommerceV1 - Validating Page Title
+2021-10-13 17:47:33,097 [main] INFO NopCommerceV1 - Page title matches
+2021-10-14 10:58:32,121 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 10:58:49,296 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 10:58:55,817 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 10:59:11,915 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 10:59:12,000 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 10:59:12,001 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 10:59:15,440 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 10:59:20,802 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 10:59:27,900 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 10:59:32,245 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 10:59:32,270 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 10:59:32,270 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 10:59:32,921 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 10:59:35,532 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 10:59:40,473 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 10:59:44,677 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 10:59:46,854 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 10:59:46,866 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 10:59:46,867 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 10:59:47,050 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 11:00:54,569 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 11:05:04,664 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 11:05:11,439 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 11:05:22,334 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 11:05:36,160 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 11:05:36,200 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 11:05:36,200 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 11:05:48,197 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 11:05:57,760 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 11:06:02,423 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 11:06:10,964 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 11:06:11,010 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 11:06:11,014 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 11:06:16,074 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 11:06:18,821 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 11:06:23,244 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 11:06:25,446 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 11:06:25,458 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 11:06:25,462 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 11:06:25,858 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 11:06:26,992 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 11:06:29,550 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 11:06:34,046 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 11:06:36,027 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 11:06:36,044 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 11:06:36,045 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 11:06:36,234 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 11:06:37,067 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 11:06:39,097 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 11:06:43,293 [main] INFO NopCommerceV1 - Validating Page Title
+2021-10-14 11:06:43,304 [main] INFO NopCommerceV1 - Page title matches
+2021-10-14 13:27:03,020 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 13:27:20,660 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 13:28:40,965 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 13:28:54,010 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 13:30:14,061 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 13:30:19,780 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 13:31:23,980 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 13:31:27,997 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 13:34:11,178 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 13:34:15,684 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 13:35:04,105 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 13:35:09,067 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 13:46:26,306 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 13:46:32,930 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 13:46:38,028 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 13:46:47,208 [main] INFO NopCommerceV1 - clicking on CustomersMenu link
+2021-10-14 13:46:47,452 [main] INFO NopCommerceV1 - Clicking on Customers link
+2021-10-14 13:46:52,035 [main] INFO NopCommerceV1 - Clicking on AddNew button
+2021-10-14 13:46:53,842 [main] INFO NopCommerceV1 - Adding new Customer Details
+2021-10-14 13:50:55,980 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 13:51:02,715 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 13:51:08,021 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 13:51:16,990 [main] INFO NopCommerceV1 - clicking on CustomersMenu link
+2021-10-14 13:51:17,204 [main] INFO NopCommerceV1 - Clicking on Customers link
+2021-10-14 13:51:20,193 [main] INFO NopCommerceV1 - Clicking on AddNew button
+2021-10-14 13:51:22,781 [main] INFO NopCommerceV1 - Adding new Customer Details
+2021-10-14 13:51:30,275 [main] INFO NopCommerceV1 - Add new Customer passed
+2021-10-14 13:53:05,658 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 13:53:13,707 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 13:53:18,216 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 13:53:26,804 [main] INFO NopCommerceV1 - clicking on CustomersMenu link
+2021-10-14 13:53:26,963 [main] INFO NopCommerceV1 - Clicking on Customers link
+2021-10-14 13:53:31,631 [main] INFO NopCommerceV1 - Clicking on AddNew button
+2021-10-14 13:53:34,984 [main] INFO NopCommerceV1 - Adding new Customer Details
+2021-10-14 13:53:42,955 [main] INFO NopCommerceV1 - Add new Customer failed
+2021-10-14 13:56:52,230 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 13:57:00,982 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 13:57:06,013 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 13:57:14,425 [main] INFO NopCommerceV1 - clicking on CustomersMenu link
+2021-10-14 13:57:14,599 [main] INFO NopCommerceV1 - Clicking on Customers link
+2021-10-14 13:57:18,545 [main] INFO NopCommerceV1 - Clicking on AddNew button
+2021-10-14 13:57:21,363 [main] INFO NopCommerceV1 - Adding new Customer Details
+2021-10-14 13:57:28,469 [main] INFO NopCommerceV1 - Add new Customer passed
+2021-10-14 13:57:28,470 [main] INFO NopCommerceV1 - logging out from application
+2021-10-14 13:59:01,040 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 13:59:10,121 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 13:59:15,365 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 13:59:26,733 [main] INFO NopCommerceV1 - clicking on CustomersMenu link
+2021-10-14 13:59:26,984 [main] INFO NopCommerceV1 - Clicking on Customers link
+2021-10-14 13:59:32,988 [main] INFO NopCommerceV1 - Clicking on AddNew button
+2021-10-14 13:59:36,031 [main] INFO NopCommerceV1 - Adding new Customer Details
+2021-10-14 13:59:41,355 [main] INFO NopCommerceV1 - Add new Customer failed
+2021-10-14 14:00:55,985 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 14:01:01,465 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 14:01:06,735 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 14:01:15,845 [main] INFO NopCommerceV1 - clicking on CustomersMenu link
+2021-10-14 14:01:16,033 [main] INFO NopCommerceV1 - Clicking on Customers link
+2021-10-14 14:01:18,196 [main] INFO NopCommerceV1 - Clicking on AddNew button
+2021-10-14 14:01:20,034 [main] INFO NopCommerceV1 - Adding new Customer Details
+2021-10-14 14:01:50,337 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 14:01:53,277 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 14:01:57,742 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 14:02:05,980 [main] INFO NopCommerceV1 - clicking on CustomersMenu link
+2021-10-14 14:02:06,125 [main] INFO NopCommerceV1 - Clicking on Customers link
+2021-10-14 14:02:09,067 [main] INFO NopCommerceV1 - Clicking on AddNew button
+2021-10-14 14:02:12,740 [main] INFO NopCommerceV1 - Adding new Customer Details
+2021-10-14 14:02:19,999 [main] INFO NopCommerceV1 - Add new Customer passed
+2021-10-14 14:02:20,000 [main] INFO NopCommerceV1 - logging out from application
+2021-10-14 14:03:34,945 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 14:03:38,025 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 14:03:42,158 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 14:03:50,288 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 14:03:50,307 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 14:03:50,308 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 14:03:57,811 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 14:03:59,685 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 14:04:05,327 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 14:04:14,603 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 14:04:14,636 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 14:04:14,636 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 14:04:19,646 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 14:04:21,595 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 14:04:26,704 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 14:04:28,879 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 14:04:28,902 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 14:04:28,902 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 14:04:29,121 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 14:04:29,925 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 14:04:32,036 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 14:04:36,848 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 14:04:38,842 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 14:04:38,855 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 14:04:38,856 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 14:04:39,107 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 14:04:40,008 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 14:04:41,780 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 14:04:47,147 [main] INFO NopCommerceV1 - Validating Page Title
+2021-10-14 14:04:47,158 [main] INFO NopCommerceV1 - Page title matches
+2021-10-14 14:04:47,938 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 14:04:49,781 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 14:04:52,941 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 14:05:00,278 [main] INFO NopCommerceV1 - clicking on CustomersMenu link
+2021-10-14 14:05:00,481 [main] INFO NopCommerceV1 - Clicking on Customers link
+2021-10-14 14:05:03,735 [main] INFO NopCommerceV1 - Clicking on AddNew button
+2021-10-14 14:05:06,408 [main] INFO NopCommerceV1 - Adding new Customer Details
+2021-10-14 14:05:10,188 [main] INFO NopCommerceV1 - Add new Customer passed
+2021-10-14 14:05:10,188 [main] INFO NopCommerceV1 - logging out from application
+2021-10-14 17:05:16,786 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:05:33,733 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:05:42,238 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 17:06:03,665 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 17:06:03,676 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 17:06:03,677 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 17:06:11,685 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:06:18,264 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:06:21,271 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 17:06:29,604 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 17:06:29,613 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 17:06:29,614 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 17:06:34,132 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:06:36,965 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:06:41,184 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 17:06:43,188 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 17:06:43,198 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 17:06:43,201 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 17:06:43,735 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 17:06:44,588 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:06:46,416 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:06:50,929 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 17:06:52,916 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 17:06:52,929 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 17:06:52,938 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 17:06:53,160 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 17:06:53,923 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:06:55,684 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:07:01,270 [main] INFO NopCommerceV1 - Validating Page Title
+2021-10-14 17:07:01,279 [main] INFO NopCommerceV1 - Page title matches
+2021-10-14 17:07:02,126 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:07:04,458 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:07:09,795 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 17:07:17,936 [main] INFO NopCommerceV1 - clicking on CustomersMenu link
+2021-10-14 17:07:18,077 [main] INFO NopCommerceV1 - Clicking on Customers link
+2021-10-14 17:07:21,783 [main] INFO NopCommerceV1 - Clicking on AddNew button
+2021-10-14 17:07:26,613 [main] INFO NopCommerceV1 - Adding new Customer Details
+2021-10-14 17:07:31,967 [main] INFO NopCommerceV1 - Add new Customer passed
+2021-10-14 17:07:31,967 [main] INFO NopCommerceV1 - logging out from application
+2021-10-14 17:16:51,002 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:17:29,127 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:18:05,245 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:18:21,772 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:18:28,765 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 17:35:56,585 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:36:20,413 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:36:28,123 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 17:36:39,468 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 17:36:39,533 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 17:36:39,534 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 17:36:50,063 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:36:55,003 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:37:02,154 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 17:37:15,713 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 17:37:15,722 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 17:37:15,722 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 17:37:22,055 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:37:24,066 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:37:29,737 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 17:37:31,754 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 17:37:31,771 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 17:37:31,771 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 17:37:32,872 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 17:37:33,791 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:37:35,477 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:37:40,977 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 17:37:42,989 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 17:37:42,996 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 17:37:42,997 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 17:37:43,273 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 17:37:44,110 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:37:46,103 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:37:50,993 [main] INFO NopCommerceV1 - Validating Page Title
+2021-10-14 17:37:51,012 [main] INFO NopCommerceV1 - Page title matches
+2021-10-14 17:37:51,809 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:37:53,582 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:37:58,769 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 17:38:09,087 [main] INFO NopCommerceV1 - clicking on CustomersMenu link
+2021-10-14 17:38:09,324 [main] INFO NopCommerceV1 - Clicking on Customers link
+2021-10-14 17:38:13,193 [main] INFO NopCommerceV1 - Clicking on AddNew button
+2021-10-14 17:38:17,652 [main] INFO NopCommerceV1 - Adding new Customer Details
+2021-10-14 17:38:24,116 [main] INFO NopCommerceV1 - Add new Customer passed
+2021-10-14 17:38:24,117 [main] INFO NopCommerceV1 - logging out from application
+2021-10-14 17:39:46,064 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:39:59,544 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:40:05,260 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 17:40:15,048 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 17:40:15,058 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 17:40:15,058 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 17:40:30,284 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:40:32,863 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:40:37,127 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 17:40:43,022 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 17:40:43,187 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 17:40:43,188 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 17:40:46,919 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:40:50,310 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:40:55,690 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 17:40:57,720 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 17:40:57,745 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 17:40:57,745 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 17:40:58,232 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 17:40:59,052 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:41:03,159 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:41:25,023 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 17:41:29,386 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 17:41:38,067 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 17:42:02,771 [main] INFO NopCommerceV1 - clicking on CustomersMenu link
+2021-10-14 17:42:03,219 [main] INFO NopCommerceV1 - Clicking on Customers link
+2021-10-14 17:42:10,420 [main] INFO NopCommerceV1 - Clicking on AddNew button
+2021-10-14 17:42:18,482 [main] INFO NopCommerceV1 - Adding new Customer Details
+2021-10-14 19:04:31,714 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 19:05:11,424 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 19:05:18,927 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 19:05:43,533 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 19:05:43,678 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 19:05:43,679 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 19:06:19,498 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 19:06:37,333 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 19:06:42,134 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 19:06:52,954 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 19:06:52,967 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 19:06:52,968 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 19:06:59,747 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 19:07:03,727 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 19:07:07,771 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 19:07:09,936 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 19:07:09,955 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 19:07:09,956 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 19:07:11,073 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 19:07:13,229 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 19:07:16,733 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 19:07:20,731 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 19:07:21,757 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 19:07:21,778 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 19:07:21,779 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 19:07:21,978 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 19:07:22,746 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 19:07:26,562 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 19:07:32,567 [main] INFO NopCommerceV1 - Validating Page Title
+2021-10-14 19:07:32,576 [main] INFO NopCommerceV1 - Page title matches
+2021-10-14 19:07:33,699 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 19:07:36,791 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 19:07:40,848 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 19:07:47,977 [main] INFO NopCommerceV1 - clicking on CustomersMenu link
+2021-10-14 19:07:48,134 [main] INFO NopCommerceV1 - Clicking on Customers link
+2021-10-14 19:07:51,709 [main] INFO NopCommerceV1 - Clicking on AddNew button
+2021-10-14 19:07:54,497 [main] INFO NopCommerceV1 - Adding new Customer Details
+2021-10-14 19:08:02,452 [main] INFO NopCommerceV1 - Add new Customer passed
+2021-10-14 19:08:02,453 [main] INFO NopCommerceV1 - logging out from application
+2021-10-14 19:26:21,356 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 19:27:04,708 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 19:27:13,584 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 19:27:36,578 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 19:27:36,588 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 19:27:36,589 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 19:27:47,339 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 19:27:51,472 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 19:27:59,193 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 19:28:07,027 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 19:28:07,043 [main] INFO NopCommerceV1 - Page Title matches
+2021-10-14 19:28:07,044 [main] INFO NopCommerceV1 - Login Test passed
+2021-10-14 19:28:12,376 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 19:28:18,154 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 19:28:24,109 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 19:28:25,170 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 19:28:25,183 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 19:28:25,184 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 19:28:28,211 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 19:28:29,154 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 19:28:35,964 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 19:28:41,625 [main] INFO NopCommerceV1 - Logging into the application
+2021-10-14 19:28:43,916 [main] INFO NopCommerceV1 - validating pagetitle after login
+2021-10-14 19:28:43,945 [main] INFO NopCommerceV1 - Title does not match
+2021-10-14 19:28:43,946 [main] INFO NopCommerceV1 - Taking screenshot
+2021-10-14 19:28:44,202 [main] INFO NopCommerceV1 - login Test failed
+2021-10-14 19:28:44,961 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 19:28:50,742 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 19:28:57,279 [main] INFO NopCommerceV1 - Validating Page Title
+2021-10-14 19:28:57,294 [main] INFO NopCommerceV1 - Page title matches
+2021-10-14 19:28:58,498 [main] INFO NopCommerceV1 - Launching Chrome Browser
+2021-10-14 19:29:05,242 [main] INFO NopCommerceV1 - Opening the URL 
+2021-10-14 19:29:11,404 [main] INFO NopCommerceV1 - logging into the application
+2021-10-14 19:29:21,176 [main] INFO NopCommerceV1 - clicking on CustomersMenu link
+2021-10-14 19:29:21,319 [main] INFO NopCommerceV1 - Clicking on Customers link
+2021-10-14 19:29:26,650 [main] INFO NopCommerceV1 - Clicking on AddNew button
+2021-10-14 19:29:31,330 [main] INFO NopCommerceV1 - Adding new Customer Details
+2021-10-14 19:29:39,601 [main] INFO NopCommerceV1 - Add new Customer passed
+2021-10-14 19:29:39,602 [main] INFO NopCommerceV1 - logging out from application
